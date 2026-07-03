@@ -107,7 +107,10 @@ Enter Study Hours (0-9): 6
 
 Predicted Marks = 68.42
 ```
-
+plt.savefig("student_marks_regression.png", dpi=300, bbox_inches="tight")
+plt.show()
+plt.savefig("histogram.png", dpi=300, bbox_inches="tight")
+plt.show()
 ---
 
 ## 📚 Concepts Covered
