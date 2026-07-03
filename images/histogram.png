@@ -1,0 +1,2 @@
+plt.savefig("histogram.png", dpi=300, bbox_inches="tight")
+plt.show()
